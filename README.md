@@ -1,5 +1,5 @@
 # bwitter-poster  
-A script to post text to Bwitter. Requires basic knowledge on how to use the Developer Console in browsers.  
+A script to post text to Bwitter(more of a proof of concept than a real application). Requires basic knowledge on how to use the Developer Console in browsers.  
 
 # Required software  
 Python: https://www.python.org/downloads/  
