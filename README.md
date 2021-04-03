@@ -3,7 +3,7 @@ A script to post text to Bwitter(more of a proof of concept than a real applicat
 
 # Required software  
 Python: https://www.python.org/downloads/  
-Requests: https://pip.pypa.io/requests
+Requests: https://pypi.org/project/requests/
 
 # How to run  
 ~~(TL;DR: Get your PHPSESSID from your developer console, then put it into the source code and run it)~~  
