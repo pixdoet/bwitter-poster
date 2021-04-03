@@ -1,7 +1,5 @@
 # bwitter api thingy
 
-# bwitter api thingy
-
 import requests
 
 class Bwitter():
